@@ -1,0 +1,516 @@
+00:01.393  blend            | Read blend: "/Volumes/ZHITAI/黑客松/Backstage3D/backstage_tailored.blend"
+00:01.514  render           | Rendering single frame
+00:01.514  render           | Rendering frame 1
+00:01.514  render           | Start rendering: Circus Backstage Dressing Room, 视图层
+00:01.514  render           | Engine: Cycles
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:31:22)
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.001
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.007
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.008
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.009
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.010
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.011
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.012
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.013
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.014
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.015
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.017
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.018
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.019
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.020
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.022
+00:01.613  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.024
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.025
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.029
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.030
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.031
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.032
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.033
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.034
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.035
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.036
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.037
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.038
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.039
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.041
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.042
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.044
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.045
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.046
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.048
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.047
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.050
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.051
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.052
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.053
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.054
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.055
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.058
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.059
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.060
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.061
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.062
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.063
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.064
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.065
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.066
+00:01.614  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.067
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.068
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.069
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.071
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.072
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.073
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.074
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.075
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.076
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.077
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.079
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.080
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.082
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.083
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.084
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.085
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.086
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.087
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.089
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.090
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.091
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.092
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.094
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.095
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.096
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.097
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.098
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.099
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.100
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.101
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.102
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.104
+00:01.615  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.105
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.106
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.109
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.110
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.111
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.112
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.113
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.116
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.118
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.119
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.120
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.121
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.122
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.125
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.126
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.127
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.128
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.129
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.130
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.132
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.133
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.134
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.135
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.138
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.139
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.140
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.141
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.142
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.143
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.144
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.146
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.147
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.148
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.149
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.153
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.154
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.155
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.156
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.158
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.159
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.161
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.162
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.164
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.165
+00:01.616  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.166
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.167
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.169
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.172
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.173
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.174
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.175
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.177
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.179
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.182
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.183
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.184
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.185
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.188
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.190
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.192
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.194
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.195
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.196
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.198
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.199
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.200
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.201
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.202
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.203
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.205
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.207
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.208
+00:01.617  render           | Fra: 1 | Mem: 1M | Synchronizing object | Individual worn floorboard.209
+00:01.705  render           | Fra: 1 | Mem: 1M | Synchronizing object | Left crimson velvet wall
+00:01.793  render           | Fra: 1 | Mem: 1M | Synchronizing object | Right parted velvet
+00:01.793  render           | Fra: 1 | Mem: 1M | Synchronizing object | Vanity solid wood top
+00:01.793  render           | Fra: 1 | Mem: 1M | Synchronizing object | Leg carved bead
+00:01.794  render           | Fra: 1 | Mem: 1M | Synchronizing object | Makeup brush handle
+00:01.794  render           | Fra: 1 | Mem: 1M | Synchronizing object | Leg carved bead.003
+00:01.795  render           | Fra: 1 | Mem: 1M | Synchronizing object | Leg carved bead.004
+00:01.795  render           | Fra: 1 | Mem: 1M | Synchronizing object | Leg carved bead.005
+00:01.795  render           | Fra: 1 | Mem: 1M | Synchronizing object | Turned table leg.003
+00:01.795  render           | Fra: 1 | Mem: 1M | Synchronizing object | Leg carved bead.009
+00:01.795  render           | Fra: 1 | Mem: 1M | Synchronizing object | Leg carved bead.010
+00:01.795  render           | Fra: 1 | Mem: 1M | Synchronizing object | Leg carved bead.011
+00:01.795  render           | Fra: 1 | Mem: 1M | Synchronizing object | Vanity drawer
+00:01.795  render           | Fra: 1 | Mem: 1M | Synchronizing object | Makeup brush handle.001
+00:01.795  render           | Fra: 1 | Mem: 1M | Synchronizing object | Makeup brush handle.002
+00:01.795  render           | Fra: 1 | Mem: 1M | Synchronizing object | Reflective dressing mirror
+00:01.795  render           | Fra: 1 | Mem: 1M | Synchronizing object | Makeup brush handle.003
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Mirror carved upright.001
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Mirror carved crossbar
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Makeup brush handle.004
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Mirror carved crossbar.001
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Makeup brush handle.005
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Makeup brush handle.006
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Mirror incandescent bulb
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Mirror incandescent bulb.001
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Mirror incandescent bulb.002
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Mirror incandescent bulb.003
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Mirror incandescent bulb.004
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Mirror incandescent bulb.005
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Mirror incandescent bulb.007
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Top mirror bulb
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Top mirror bulb.002
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Cosmetic powder tin
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Cosmetic powder tin.001
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Cosmetic powder tin.002
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brush holder
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Soft makeup brush
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Soft makeup brush.001
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Soft makeup brush.002
+00:01.796  render           | Fra: 1 | Mem: 1M | Synchronizing object | Soft makeup brush.003
+00:01.797  render           | Fra: 1 | Mem: 1M | Synchronizing object | Soft makeup brush.004
+00:01.797  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace
+00:01.797  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.001
+00:01.797  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.002
+00:01.797  render           | Fra: 1 | Mem: 1M | Synchronizing object | Soft makeup brush.006
+00:01.797  render           | Fra: 1 | Mem: 1M | Synchronizing object | Wig stand base
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Mannequin head
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.001
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.002
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.004
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.005
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.006
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.004
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.005
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.006
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.007
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.008
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.009
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.010
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.011
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.007
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.012
+00:01.798  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.013
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.014
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot lace.015
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.009
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Coat stand foot
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.011
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.014
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.017
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.019
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Coat stand foot.001
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.020
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Curved hat hook.001
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.021
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Coat stand foot.002
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Curved hat hook.002
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.001
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.002
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.003
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.004
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.005
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.006
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.007
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.008
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.009
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.010
+00:01.799  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.011
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.012
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.024
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.026
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.029
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.030
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.014
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.015
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.016
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.017
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.018
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.019
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.020
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.021
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.022
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.023
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.024
+00:01.800  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.025
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.026
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.027
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.028
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.029
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.030
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.031
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.032
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.033
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.034
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.035
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.036
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.037
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.038
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.039
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.040
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.041
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.042
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.043
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.044
+00:01.801  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.045
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.046
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.047
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.048
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.049
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.050
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.051
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.052
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.053
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.054
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.055
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.056
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.057
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.058
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.059
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.060
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.061
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.062
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.063
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.064
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.065
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.066
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.067
+00:01.802  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.031
+00:01.803  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.068
+00:01.803  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.069
+00:01.803  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.070
+00:01.803  render           | Fra: 1 | Mem: 1M | Synchronizing object | Tapered jester horn.071
+00:01.803  render           | Fra: 1 | Mem: 1M | Synchronizing object | Leather suitcase handle
+00:01.803  render           | Fra: 1 | Mem: 1M | Synchronizing object | Leather suitcase handle.001
+00:01.803  render           | Fra: 1 | Mem: 1M | Synchronizing object | Leather suitcase handle.002
+00:01.803  render           | Fra: 1 | Mem: 1M | Synchronizing object | Leather suitcase handle.003
+00:01.803  render           | Fra: 1 | Mem: 1M | Synchronizing object | 01 long striped frock coat wooden hanger
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | 02 gold sequined open jacket wooden hanger
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | 03 black inner waistcoat wooden hanger
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | 04 harlequin sleeveless vest wooden hanger
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gold jacket individual sequin glints
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.032
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.033
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.034
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.035
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.037
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.038
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.039
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.041
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.045
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.047
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.048
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.049
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.051
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.052
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.053
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.054
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.056
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.057
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.058
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.059
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.060
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.062
+00:01.804  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.064
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.066
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.067
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.068
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.069
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.070
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.071
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.073
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.075
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.076
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.078
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.080
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.081
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.082
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.083
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.085
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.086
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.087
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.088
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.089
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.091
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.093
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.094
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.095
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.096
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.097
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.099
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.100
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.101
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.102
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.103
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.104
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.105
+00:01.805  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.107
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.108
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Auburn wig curl.109
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Rack upright
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Rack caster
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Rack caster.001
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Rack upright.001
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Rack caster.002
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Rack caster.003
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Rack upper beam
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot tall shaft
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot tall shaft.001
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot toe.001
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot tall shaft.002
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot toe.002
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Boot toe.003
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Coat stand pole
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Coat rack finial
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Top hat brim
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Top hat crown
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Top hat satin ribbon
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Jester cap
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Jester bell
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Jester bell.001
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Vintage travel trunk
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.001
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.003
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.005
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.006
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.007
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Trunk lock plate
+00:01.806  render           | Fra: 1 | Mem: 1M | Synchronizing object | Trunk lock plate.001
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Vintage travel trunk.001
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Trunk lid seam.001
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.008
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.010
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.012
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.013
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.015
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Trunk lock plate.003
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Trunk lid seam.002
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.016
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.018
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.019
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.020
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.022
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Trunk lock plate.004
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Trunk lock plate.005
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Trunk lid seam.003
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.024
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | 04 harlequin sleeveless vest folded lapel.001
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.028
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.030
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Brass reinforced corner.031
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Trunk lock plate.006
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Trunk lock plate.007
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | 04 harlequin sleeveless vest tailored body
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Bulb practical
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Bulb practical.003
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Bulb practical.004
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Bulb practical.006
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Bulb practical.007
+00:01.807  render           | Fra: 1 | Mem: 1M | Synchronizing object | Vanity warm bounce
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 01 long striped frock coat tailored body
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 01 long striped frock coat hanging sleeve
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 01 long striped frock coat cuff button.002
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 01 long striped frock coat hanging sleeve.001
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 01 long striped frock coat cuff button.003
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 01 long striped frock coat cuff button.004
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 01 long striped frock coat cuff button.005
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 01 long striped frock coat folded lapel
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 02 gold sequined open jacket tailored body
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 02 gold sequined open jacket hanging sleeve
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 02 gold sequined open jacket cuff button
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 02 gold sequined open jacket cuff button.001
+00:01.808  render           | Fra: 1 | Mem: 1M | Synchronizing object | 02 gold sequined open jacket cuff button.002
+00:01.809  render           | Fra: 1 | Mem: 1M | Synchronizing object | 02 gold sequined open jacket hanging sleeve.001
+00:01.811  render           | Fra: 1 | Mem: 1M | Synchronizing object | 02 gold sequined open jacket cuff button.003
+00:01.811  render           | Fra: 1 | Mem: 1M | Synchronizing object | 02 gold sequined open jacket cuff button.004
+00:01.811  render           | Fra: 1 | Mem: 1M | Synchronizing object | 02 gold sequined open jacket cuff button.005
+00:01.811  render           | Fra: 1 | Mem: 1M | Synchronizing object | 02 gold sequined open jacket folded lapel
+00:01.811  render           | Fra: 1 | Mem: 1M | Synchronizing object | 02 gold sequined open jacket folded lapel.001
+00:01.811  render           | Fra: 1 | Mem: 1M | Synchronizing object | 03 black inner waistcoat tailored body
+00:01.812  render           | Fra: 1 | Mem: 1M | Synchronizing object | 03 black inner waistcoat folded lapel.001
+00:01.817  render           | Fra: 1 | Mem: 1M | Initializing
+00:01.831  render           | Fra: 1 | Mem: 1M | Waiting for render to start
+00:01.831  render           | Fra: 1 | Mem: 1M | Updating Scene
+00:01.831  render           | Fra: 1 | Mem: 1M | Updating Shaders
+00:01.831  render           | Fra: 1 | Mem: 1M | Loading render kernels (may take a few minutes the first time)
+00:01.837  render           | Fra: 1 | Mem: 1M | Updating Procedurals
+00:01.837  render           | Fra: 1 | Mem: 1M | Updating Background
+00:01.837  render           | Fra: 1 | Mem: 1M | Updating Scene Attribute
+00:01.837  render           | Fra: 1 | Mem: 1M | Updating Camera
+00:01.837  render           | Fra: 1 | Mem: 1M | Updating Meshes Flags
+00:01.837  render           | Fra: 1 | Mem: 1M | Updating Objects
+00:01.837  render           | Fra: 1 | Mem: 1M | Updating Objects | Copying Transformations to device
+00:01.837  render           | Fra: 1 | Mem: 1M | Updating Particle Systems
+00:01.837  render           | Fra: 1 | Mem: 1M | Updating Particle Systems | Copying Particles to device
+00:01.837  render           | Fra: 1 | Mem: 1M | Updating Meshes
+00:01.837  render           | Fra: 1 | Mem: 1M | Updating Objects | Applying Static Transformations
+00:01.844  render           | Fra: 1 | Mem: 1M | Updating Scene BVH | Building
+00:01.844  render           | Fra: 1 | Mem: 1M | Updating Scene BVH | Building BVH
+00:01.848  render           | Fra: 1 | Mem: 59M | Updating Scene BVH | Building BVH 0%
+00:02.001  render           | Fra: 1 | Mem: 115M | Updating Scene BVH | Copying BVH to device
+00:02.001  render           | Fra: 1 | Mem: 115M | Updating Mesh | Computing attributes
+00:02.010  render           | Fra: 1 | Mem: 115M | Updating Mesh | Copying Attributes to device
+00:02.010  render           | Fra: 1 | Mem: 141M | Updating Mesh | Computing normals
+00:02.020  render           | Fra: 1 | Mem: 141M | Updating Mesh | Copying Mesh to device
+00:02.020  render           | Fra: 1 | Mem: 170M | Updating Objects Flags
+00:02.020  render           | Fra: 1 | Mem: 170M | Updating Primitive Offsets
+00:02.020  render           | Fra: 1 | Mem: 170M | Updating Images
+00:02.020  render           | Fra: 1 | Mem: 170M | Updating Volume
+00:02.021  render           | Fra: 1 | Mem: 170M | Updating Volume | Evaluating density for Atmosphere volume
+00:02.022  render           | Fra: 1 | Mem: 170M | Updating Volume | Building octree for Atmosphere volume
+00:02.022  render           | Fra: 1 | Mem: 170M | Updating Camera Volume
+00:02.022  render           | Fra: 1 | Mem: 170M | Updating Lookup Tables
+00:02.022  render           | Fra: 1 | Mem: 170M | Updating Lights
+00:02.022  render           | Fra: 1 | Mem: 170M | Updating Lights | Computing tree
+00:02.024  render           | Fra: 1 | Mem: 170M | Updating Integrator
+00:02.024  render           | Fra: 1 | Mem: 170M | Updating Film
+00:02.024  render           | Fra: 1 | Mem: 170M | Updating Lookup Tables
+00:02.024  render           | Fra: 1 | Mem: 170M | Updating Baking
+00:02.024  render           | Fra: 1 | Mem: 170M | Updating Device | Writing constant memory
+00:02.024  render           | Fra: 1 | Mem: 170M | Loading denoising kernels (may take a few minutes the first time)
+00:02.024  render           | Fra: 1 | Mem: 170M | Sample 0/32
+00:04.489  render           | Fra: 1 | Remaining: 01:16.41 | Mem: 300M | Sample 1/32
+00:06.935  render           | Fra: 1 | Remaining: 01:13.66 | Mem: 300M | Sample 2/32
+00:11.089  render           | Fra: 1 | Remaining: 01:03.45 | Mem: 300M | Sample 4/32
+00:19.019  render           | Fra: 1 | Remaining: 00:50.98 | Mem: 300M | Sample 8/32
+00:34.497  render           | Fra: 1 | Remaining: 00:32.47 | Mem: 300M | Sample 16/32
+01:13.190  render           | Fra: 1 | Mem: 300M | Sample 32/32
+01:13.191  render           | Fra: 1 | Mem: 300M | Finished
+01:13.465  render           | Saved: '/Volumes/ZHITAI/黑客松/Backstage3D/tailored_preview0001.png'
+01:13.465  render           | Time: 01:11.95 (Saving: 00:00.25)
+
+Blender quit
